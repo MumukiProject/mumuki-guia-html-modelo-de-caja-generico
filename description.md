@@ -1,0 +1,3 @@
+En esta lección te vamos a dar ejemplos que tenés que replicar por fuera de la plataforma y subirlos a un repositorio de Github. No tienen que verse 100% idénticos, podés simplicar la elección de colores, fuentes y efectos. La idea es aplicar los conocimientos vistos _hasta el momento_, en caso de que no sepas hacer alguna parte, podés dejarla y seguir con otro ejercicio.
+
+Cuando finalices cada uno, compartinos el link a tu repositorio. :globe_with_meridians:
